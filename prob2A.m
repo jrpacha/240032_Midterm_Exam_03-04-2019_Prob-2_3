@@ -62,7 +62,6 @@ tempR=f(r(1,1),r(1,2));
 errInterpR=abs(interpR-tempR);
 
 %Output results
-fprintf("Interp.temp.at point R: %.4e. ",interpR)
-fprintf("Err: %.4e\n",errInterpR)  
-fprintf("Interp.temp.at point Q: %.4e. ",interpQ)
-fprintf("Err: %.4e\n",errInterpQ)
+fprintf("%43s\n",'Error')
+fprintf("Interp.Temp.at point R: %10.4e%12.4e\n",interpR,errInterpR)
+fprintf("Interp.Temp.at point Q: %10.4e%12.4e\n",interpQ,errInterpQ)

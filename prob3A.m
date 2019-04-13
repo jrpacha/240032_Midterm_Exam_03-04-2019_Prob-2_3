@@ -72,7 +72,7 @@ N=size(idx,1);
 fprintf('Solution:\n')
 
 fprintf('(a) K(50,50) = %11.5e\n',K(50,50))
-fprintf('(Hint K(20,21) = %11.5e)\n',K(20,21))
+fprintf('(Hint1: K(20,21) = %11.5e)\n',K(20,21))
 fprintf('(b) Mean val.of the approx.solution: ')
 fprintf('<u> = %11.5e\n',U)
 fprintf('(Hint: We know that u(25)= %11.5e)\n',u(25))
