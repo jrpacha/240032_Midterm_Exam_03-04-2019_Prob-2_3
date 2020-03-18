@@ -1,4 +1,4 @@
-# midtermExam-240032_03-04-2019_Prob-2_3
+# 240032 Midterm Exam 03-04-2019 Problems 2 and 3
 
 ## Matlab source file for problems 2 and 3 of the midterm exam, 
 ## April 3, 2019  
